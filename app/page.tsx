@@ -25,7 +25,7 @@ export default function Page() {
           </p>
           ´
           <p className={`${lusitana.className} antialiased`}>
-            Try Font Lusitana
+            First you need to login:
           </p>
           <Link
             href="/login"
